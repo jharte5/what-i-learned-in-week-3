@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>What I learned in week 3</title>
+        What I learned in week 3
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
     </head>
@@ -22,8 +22,10 @@
         <ul>
             <li>Brings HTML to life</li>
             <li>Makes things move</li>
+            <li> Strings and #'s</li>
         </ul>
         <h2>More CSS stuff....</h2>
             <li>Css Diner</li>
     </body>
 </html>
+
